@@ -10,11 +10,7 @@ assignees: JayArrowz, nshCore
 
 Issue tracker is **ONLY** used for reporting bugs. Use [stackoverflow](https://stackoverflow.com) for supporting issues.
 
-- [ ] Are you running the latest version?
-- [ ] Did you check the debugging guide?
-- [ ] Did you check the FAQs on Discuss?
-- [ ] Are you reporting to the correct repository?
-- [ ] Did you perform a cursory search?
+- [ ] Have you cleared your cache?
 
 For more information, see the [CONTRIBUTING](https://github.com/atlascity/Community/blob/master/CONTRIBUTING.md) guide....
 
@@ -53,7 +49,7 @@ We will consider your request but it may be closed if it's something we're not a
 ### Context (Environment)
 
 <!--- How has this issue affected you? What are you trying to accomplish? -->
-<!--- Please describe the hardware you are running the solution on (for example run dxdiag on windows). -->
+<!--- Please describe the hardware you are running the solution on (for example chrome 11.0 on windows 11). -->
 <!--- Providing context helps us come up with a solution that is most useful in the real world -->
 
 <!--- Provide a general summary of the issue in the Title above -->
