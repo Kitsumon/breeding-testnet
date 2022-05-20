@@ -11,6 +11,7 @@ assignees: JayArrowz, nshCore
 Issue tracker is **ONLY** used for reporting bugs. Use [stackoverflow](https://stackoverflow.com) for supporting issues.
 
 - [ ] Have you cleared your cache?
+- Enter Browser name and version: .e.g. Chrome 11
 
 For more information, see the [CONTRIBUTING](https://github.com/atlascity/Community/blob/master/CONTRIBUTING.md) guide....
 
@@ -37,7 +38,6 @@ We will consider your request but it may be closed if it's something we're not a
 <!--- Not obligatory, but suggest a fix/reason for the bug, -->
 
 ### Steps to Reproduce
-
 <!--- Provide a link to a live example, or an unambiguous set of steps to -->
 <!--- reproduce this bug. Include code to reproduce, if relevant -->
 
