@@ -12,7 +12,7 @@ Issue tracker is **ONLY** used for reporting bugs. Use [stackoverflow](https://s
 
 - [ ] Have you cleared your cache?
 - [ ] Enter Browser name and version: .e.g. Chrome 11
-- [ ] Enter Wallet name and version: XXX (v x.xx) (.e.g Metamask)
+- [ ] Enter Wallet name and version: XXX Version x.xx (.e.g Metamask Version 1.2.0)
 - [ ] Enter transaction ID if any: XXX
 
 For more information, see the [CONTRIBUTING](https://github.com/atlascity/Community/blob/master/CONTRIBUTING.md) guide....
